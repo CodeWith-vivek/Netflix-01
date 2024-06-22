@@ -439,6 +439,12 @@ footer .arrow-down {
     .video-fluid2{
         width: 55%;
         right: 88px;
+        
     }
+       .faq-section button {
+            color: #fff;
+            font-size: 18px;
+            font-weight: 500;
+        }
     
  }
